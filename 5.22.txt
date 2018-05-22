@@ -1,79 +1,106 @@
 知识点6 ： A字母开头的单词     acquiesce-adulterate
-acquiesce（quiet：安静
-quiescent：静止期
-quietus：默默无闻）
 
-acquittal（acquit：无罪释放
-convict：罪犯）
+e+双辅音=>加强，out
+acquiesce：默许，勉强同意
+quiet：安静
+quiescent：静止的
+quietus：死，偿清
 
-addle（baffle：挡板
-bewilder：迷惑
-babble：胡言乱语
-bewilder：迷惑）
+acquittal：宣判无罪 n.
+acquit：宣判无罪 v.	acquit sb. of sth.
+convict：宣判有罪
 
-adept（inept：不称职
+be：加强
+addle：使困惑，腐坏	  addle one's brain	addle eggs
+baffle：使困惑，挡板		babble：呀呀学语，胡言乱语
+bewilder：使困惑
+
+adept：熟练的  expert
+inept：无能的
 inapt：不恰当的
 appropriate：适当的
-deft：灵巧
-adroit：熟练）
+deft：灵巧的 de+ept 	daft：愚蠢的
+adroit：熟练的  a+drive
 
-adjacent（deject：使沮丧
-abject：卑鄙的
-conjecture：猜想
+jac/ject=>to throw
+reject：拒绝
+inject：注射
+adjacent：邻近的，毗邻的
+deject：使沮丧	depress
+abject：悲惨的，下贱的
+conjecture：猜测
 ejaculate：射出
-depress：抑制
 abut：邻接
-adjoin：邻接）
+adjoin：邻接
 
-adjourn（sojourn：逗留
-diurnal：周日
-nocturnal：夜间）
+journ=>day 	journey
+adjourn：延期休会，中止，推迟
+sojourn：逗留
+diurnal：白天的
+nocturnal：夜的
 
-adulterate（adultery：通奸
-adulate：奉承）
+adulterate：参杂	adulterate with
+adultery：通奸
+adulate：奉承
 
 知识点7 ： A字母开头的单词     annihilate-ardent
 
-annihilate（nihilism：虚无主义
+nihil=>虚无
+annihilate：消灭，歼灭
+nihilism：虚无主义
 null：空
-nullify：无效
-annul：废止
-eliminate：消除
-limit：限制）
+nullify：使无效
+annul：使无效
+eliminate：消除，淘汰
+limit：限制
 
-annotate（notation：标记
+annotate：注释
+notation：记号，标记
 connotation：内涵
-denotation：外延
-notorious：臭名昭著的）
-antagonize（agitate：搅拌
-cogitate：在思考
-cogent：有说服力的
-exigent：紧急
-evidence：证据
-antagonist：拮抗剂
+denotation：指示
+notorious：臭名昭著的
+
+agon/ag=>act
+agency：机构
+antagonize：敌对，对抗
+agitate：煽动
+cogitate：认真思考
+cogent：有说服力的	cogent evidence
+exigent：紧急的
+antagonist：反派，对手	opponent：对手
 protagonist：主角
-opponent：对手）
 
-aquatic（aqueous：水
+fer=>to carry
+ob=>加强，相反
+aqua=>water
+aquarium：水族馆
+aquatic：水生的，水栖的
+aqueous：含水的，水溶的
 opaque：不透明
+transparent：透明的
 aquifer：含水层
-transparent：透明的）
 
-arboretum（arbor：乔木
-arboreal 树木的，树生的
-harbor：港口）
+arb/arbor=>tree	
+arboretum：树木园，植物园
+arbor：树荫
+arboreal：树木的，树生的
+harbor：港口
 
-ardent（arduous：艰巨的
+per=>through，away
+ard/ars=>to burn  ash：灰
+ardent：热心的，热情洋溢的
+arduous：辛苦的，费力的
 ardor：热情
 arson：纵火
 arsonist：纵火犯
-fervid：炽热的
-fervent：热切
-perfervid：热心的）
+fervid：热情的	fever
+fervent：热情的
+perfervid：十分热情的
 
 知识点8 ： A字母开头的单词     arrant-askew
 
-arrant（errant：错误的
+arrant
+errant：错误的
 erroneous：错误的
 inerrancy：无误
 erratic：不稳定的
@@ -81,23 +108,26 @@ aberrant：异常
 abnormal：异常
 notorious：臭名昭著的
 flagrant：臭名昭著的
-fragrant：芳香的）
+fragrant：芳香的
 
-articulate（article：文章
+articulate
+article：文章
 artifact：神器
 artful：巧妙的
 artless：烂漫
 artisan：工匠
-partisan：党派）
+partisan：党派
 
-ascetic（athletic：运动
+ascetic
+athletic：运动
 libertine：风流才子
 indulgent：放纵的东西
 abstemious：节制
 abstain：弃权
-abstinence：禁欲）
+abstinence：禁欲
 
-askew（awry：错误
+askew
+awry：错误
 wrestling：摔跤
 wrath：愤怒
 wreak：造成
@@ -112,4 +142,4 @@ wrath：忿怒
 sloth：懒惰
 gluttony：暴食
 gluttonous：贪吃的
-glutinous：糯米）
+glutinous：糯米
