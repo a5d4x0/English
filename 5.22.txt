@@ -9,19 +9,20 @@ quietus：死，偿清
 acquittal：宣判无罪 n.
 acquit：宣判无罪 v.	acquit sb. of sth.
 convict：宣判有罪
-
-be：加强
+------------------------------------------------
 addle：使困惑，腐坏	  addle one's brain	addle eggs
 baffle：使困惑，挡板		babble：呀呀学语，胡言乱语
-bewilder：使困惑
 
+be=>加强
+bewilder：使困惑
+------------------------------------------------
 adept：熟练的  expert
 inept：无能的
-inapt：不恰当的
-appropriate：适当的
+inapt：不恰当的	appropriate：适当的
 deft：灵巧的 de+ept 	daft：愚蠢的
-adroit：熟练的  a+drive
 
+adroit：熟练的  a+drive
+------------------------------------------------
 jac/ject=>to throw
 reject：拒绝
 inject：注射
@@ -30,36 +31,40 @@ deject：使沮丧	depress
 abject：悲惨的，下贱的
 conjecture：猜测
 ejaculate：射出
+
 abut：邻接
 adjoin：邻接
-
+------------------------------------------------
 journ=>day 	journey
 adjourn：延期休会，中止，推迟
 sojourn：逗留
+
 diurnal：白天的
 nocturnal：夜的
-
+------------------------------------------------
 adulterate：参杂	adulterate with
 adultery：通奸
 adulate：奉承
-
+------------------------------------------------
 知识点7 ： A字母开头的单词     annihilate-ardent
 
 nihil=>虚无
 annihilate：消灭，歼灭
 nihilism：虚无主义
+
 null：空
 nullify：使无效
 annul：使无效
-eliminate：消除，淘汰
-limit：限制
 
+limit：限制
+eliminate：消除，淘汰
+------------------------------------------------
 annotate：注释
 notation：记号，标记
 connotation：内涵
 denotation：指示
 notorious：臭名昭著的
-
+------------------------------------------------
 agon/ag=>act
 agency：机构
 antagonize：敌对，对抗
@@ -69,77 +74,30 @@ cogent：有说服力的	cogent evidence
 exigent：紧急的
 antagonist：反派，对手	opponent：对手
 protagonist：主角
-
-fer=>to carry
-ob=>加强，相反
+------------------------------------------------
 aqua=>water
 aquarium：水族馆
 aquatic：水生的，水栖的
 aqueous：含水的，水溶的
-opaque：不透明
-transparent：透明的
+ob=>加强，相反
+opaque：不透明	transparent：透明的
+fer=>to carry
 aquifer：含水层
-
+------------------------------------------------
 arb/arbor=>tree	
 arboretum：树木园，植物园
 arbor：树荫
 arboreal：树木的，树生的
 harbor：港口
-
-per=>through，away
+------------------------------------------------
 ard/ars=>to burn  ash：灰
 ardent：热心的，热情洋溢的
 arduous：辛苦的，费力的
 ardor：热情
 arson：纵火
 arsonist：纵火犯
+
 fervid：热情的	fever
 fervent：热情的
+per=>through，away
 perfervid：十分热情的
-
-知识点8 ： A字母开头的单词     arrant-askew
-
-arrant
-errant：错误的
-erroneous：错误的
-inerrancy：无误
-erratic：不稳定的
-aberrant：异常
-abnormal：异常
-notorious：臭名昭著的
-flagrant：臭名昭著的
-fragrant：芳香的
-
-articulate
-article：文章
-artifact：神器
-artful：巧妙的
-artless：烂漫
-artisan：工匠
-partisan：党派
-
-ascetic
-athletic：运动
-libertine：风流才子
-indulgent：放纵的东西
-abstemious：节制
-abstain：弃权
-abstinence：禁欲
-
-askew
-awry：错误
-wrestling：摔跤
-wrath：愤怒
-wreak：造成
-writhe：苦恼
-wriggle：蠕动
-sin：罪恶
-pride：骄傲
-greed：贪婪
-lust：欲望
-envy：嫉妒
-wrath：忿怒
-sloth：懒惰
-gluttony：暴食
-gluttonous：贪吃的
-glutinous：糯米
