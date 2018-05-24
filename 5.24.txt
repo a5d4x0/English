@@ -1,88 +1,92 @@
-ÖªÊ¶µã10 £º A×ÖÄ¸¿ªÍ·µÄµ¥´Ê    avaricious-avert
+çŸ¥è¯†ç‚¹10 ï¼š Aå­—æ¯å¼€å¤´çš„å•è¯    avaricious-avert
 
 av=>greed
-avaricious£ºÌ°À·µÄ
-avid£ºÌ°À·µÄ£¬¿ñÈÈµÄ
-avarice£ºÌ°À·
+avariciousï¼šè´ªå©ªçš„
+avidï¼šè´ªå©ªçš„ï¼Œç‹‚çƒ­çš„
+avariceï¼šè´ªå©ª
 vor=>eat
-herbivore£ºÊ³²İ¶¯Îï
-carnivore£ºÈâÊ³¶¯Îï
-voracious£ºÌ°À·µÄ
-c=>°üÎ§£¬Ò»Æğ
-covet£ºÌ°À·
-cover£ºÕÚ¸Ç
-covert£ºÃØÃÜµÄ	overt£º¹«¿ªµÄ
+herbivoreï¼šé£Ÿè‰åŠ¨ç‰©
+carnivoreï¼šè‚‰é£ŸåŠ¨ç‰©
+voraciousï¼šè´ªå©ªçš„
+c=>åŒ…å›´ï¼Œä¸€èµ·
+covetï¼šè´ªå©ª
+coverï¼šé®ç›–
+covertï¼šç§˜å¯†çš„	overtï¼šå…¬å¼€çš„
 ------------------------------------------------
 vert/vers=>to turn
-avert£º×ªÒÆ£¬±ÜÃâ
-advert£º×¢Òâ	advertisement
-revert£º»Ø¸´
-divert£º×ªÏò£¬ÓéÀÖ
-pervert£º±äÌ¬
-controvert£º·´²µ
-subvert£ºµß¸²
-adverse£ºÏà·´µÄ£¬µĞ¶ÔµÄ	adverse wind
-reverse£ºÍù»Ø
-diverse£º¸÷ÖÖ¸÷ÑùµÄ
-perverse£ºÈÎĞÔµÄ£¬²»ºÏÇéÀíµÄ
-controversy£ºÕùÒé
-subversive£ºµß¸²ĞÔµÄ
-extrovert£ºĞÔ¸ñÍâÏòµÄÈË
-introvert£ºÄÚÏòµÄÈË
-vertex£º¶¥µã
-vortex£ºäöÎĞ
-ile=>Ò×ÓÚ
-versatile£º¶à²Å¶àÒÕµÄ
-vertigo£ºÑ£ÔÎ
+avertï¼šè½¬ç§»ï¼Œé¿å…
+advertï¼šæ³¨æ„	advertisement
+revertï¼šå›å¤
+divertï¼šè½¬å‘ï¼Œå¨±ä¹
+pervertï¼šå˜æ€
+controvertï¼šåé©³
+subvertï¼šé¢ è¦†
+adverseï¼šç›¸åçš„ï¼Œæ•Œå¯¹çš„	adverse wind
+reverseï¼šå¾€å›
+diverseï¼šå„ç§å„æ ·çš„
+perverseï¼šä»»æ€§çš„ï¼Œä¸åˆæƒ…ç†çš„
+controversyï¼šäº‰è®®
+subversiveï¼šé¢ è¦†æ€§çš„
+extrovertï¼šæ€§æ ¼å¤–å‘çš„äºº
+introvertï¼šå†…å‘çš„äºº
+vertexï¼šé¡¶ç‚¹
+vortexï¼šæ¼©æ¶¡
+ile=>æ˜“äº
+versatileï¼šå¤šæ‰å¤šè‰ºçš„
+vertigoï¼šçœ©æ™•
 ------------------------------------------------
-avert£º×ªÒÆ£¬±ÜÃâ
-ary=>ÈË£¬µØ
-adversary£º¶ÔÊÖ
-adversity£ºÄæ¾³
+avertï¼šè½¬ç§»ï¼Œé¿å…
+ary=>äººï¼Œåœ°
+adversaryï¼šå¯¹æ‰‹
+adversityï¼šé€†å¢ƒ
 ------------------------------------------------
-ÖªÊ¶µã11£º  B×ÖÄ¸¿ªÍ·µÄµ¥´Ê    aviary-bawdy
+çŸ¥è¯†ç‚¹11ï¼š  Bå­—æ¯å¼€å¤´çš„å•è¯    aviary-bawdy
 
 avi=>bird
-aviary£º´óĞÍÄñÉá£¬ÄñÀàËÇÑø³¡
-aviation£ºº½¿Õ
-aviator£º·ÉĞĞÔ±
-auspicious£º¼ªÀûµÄ
-augury£ºÔ¤ÑÔ
+aviaryï¼šå¤§å‹é¸Ÿèˆï¼Œé¸Ÿç±»é¥²å…»åœº
+aviationï¼šèˆªç©ºå­¦
+aviatorï¼šé£è¡Œå‘˜
+auspiciousï¼šå‰ç¥¥çš„
+auguryï¼šå¾å…†
 ------------------------------------------------
-avow
-vocal£ºÉùÀÖ
-equivocal£ºÄ£ÀâÁ½¿É
-vociferous£ºĞúÈÂµÄ
-provoke£ºÒı·¢
-revoke£º³·Ïú
-convoke£ºÕÙ¼¯
-invoke£ºµ÷ÓÃ
-evoke£º»½Æğ
-ambiguous£ºÄ£ÀâÁ½¿É
+avoice
+avowï¼šæ‰¿è®¤ï¼Œå…¬å¼€å£°æ˜ Â aver
+vocï¼Œvok
+vocalï¼šå£°ä¹
+equivocalï¼šæ¨¡æ£±ä¸¤å¯çš„
+vociferousï¼šå–§åš·çš„
+provokeï¼šæ¿€æ€’
+revokeï¼šæ’¤é”€
+convokeï¼šå¬é›†
+invokeï¼šæ³æ±‚ï¼Œè°ƒç”¨
+evokeï¼šå”¤èµ·
+ambiguousï¼šæ¨¡æ£±ä¸¤å¯çš„
 ------------------------------------------------
-balmy
-balm£ºÏãÓÍ
-palm£º×Øéµ
+balmyï¼šèŠ³é¦™çš„ï¼Œæ¸©å’Œçš„
+balmï¼šé¦™æ²¹ï¼Œå®‰æ…°å‰‚
+palmï¼šæ‰‹æŒ
 ------------------------------------------------
-baneful
-bane£º±´¶÷
-wane£ºÏûÍË
-sane£ºÀíÖÇµÄ
-arcane£ºÉñÃØµÄ
-inane£ºÓŞ´ÀµÄ
-baleful£ºÓĞº¦µÄ
-bale£º±´¶û
+banefulï¼šæœ‰å®³çš„
+baneï¼šç¥¸æ ¹
+waneï¼šæ¶ˆé€€  wax å¢åŠ 
+saneï¼šç†æ™ºçš„
+arcaneï¼šç¥ç§˜çš„
+inaneï¼šæ— æ„ä¹‰çš„ï¼Œç©ºæ´çš„
+balefulï¼šæœ‰å®³çš„
+baleï¼šåŒ…è£¹
 ------------------------------------------------
-barricade
-barren£ºÆ¶ñ¤µÄ
-embargo£º½ûÔË
-barbarian£ºÒ°ÂùÈË
-barrier£ºÕÏ°­
-blockade ·âËø
-curfew Ïü½û
+bar=>æœ¨æ£’
+barricadeï¼šè·¯éšœ
+barrenï¼šè´«ç˜ çš„ï¼Œä¸å­•ä¸è‚²
+embargoï¼šç¦è¿
+barbarianï¼šé‡è›®äºº
+barricadeï¼šè·¯éšœ
+barrierï¼šéšœç¢
+blockade å°é”
+curfew å®µç¦
 ------------------------------------------------
-bawdy
-obscene£ºÒù»àµÄ
-lewd£ººÃÉ«
-erotic£ºÇéÉ«
+bawdyï¼šæ·«ç§½çš„ï¼Œå¥½è‰²çš„ body
+obsceneï¼šæ·«ç§½çš„
+lewdï¼šå¥½è‰² éœ²çš„
+eroticï¼šè‰²æƒ…çš„
 
