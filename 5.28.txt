@@ -1,6 +1,6 @@
 知识点18    C字母开头的单词   clairvoyance——contiguity
 
-clairvoyance 透视，洞擦力   clear+voy（vis）
+clairvoyance 透视，洞察力   clear+voy（vis）
 ------------------------------------------------
 clement 和蔼的，（天气）温和
 climate  气候 
@@ -63,8 +63,8 @@ su+双写=>sub 压
 suppress  抑制
 repress  镇压（叛乱），抑制 
 ------------------------------------------------
-contiguity  接触，接近  contiguity A and B
 tig=>tact,tang=>to touch
+contiguity  接触，接近  contiguity A and B
 tact 机智，圆滑
 intact  完整的
 tangle  纠缠
