@@ -1,152 +1,152 @@
-ÖªÊ¶µã2    A×ÖÄ¸¿ªÍ·µÄµ¥´Ê   abjure-acerbic
+çŸ¥è¯†ç‚¹2    Aå­—æ¯å¼€å¤´çš„å•è¯   abjure-acerbic
 
 ab=>away
-abjure Ğû²¼·ÅÆú	espouse Ö§³Ö
-adjure ¿ÒÇó
-conjure ¿ÒÇó£¬±äÄ§Êõ
-perjure ×÷Î±Ö¤
-jury ÅãÉóÍÅ
-perjury  Î±Ö¤ÍÅ
+abjure å®£å¸ƒæ”¾å¼ƒ	espouse æ”¯æŒ
+adjure æ³æ±‚
+conjure æ³æ±‚ï¼Œå˜é­”æœ¯
+perjure ä½œä¼ªè¯
+jury é™ªå®¡å›¢
+perjury  ä¼ªè¯å›¢
 ------------------------------------------------
-espouse Ö§³Ö
-spouse ÅäÅ¼
-spawn ²úÂÑ
+espouse æ”¯æŒ
+spouse é…å¶
+spawn äº§åµ
 ------------------------------------------------
-forgo ·ÅÆú£¨¿ìÀÖ/ÃÀºÃ£©
-forsake ·ÅÆú  for the sake of
-forswear ·ÅÆú£¬×÷Î±Ö¤
-renounce ·ÅÆú£¨È¨Á¦/ĞÅÑö£©	retire+announce
-relinquish £¨ÃãÇ¿µØ£©·ÅÆú
+forgo æ”¾å¼ƒï¼ˆå¿«ä¹/ç¾å¥½ï¼‰
+forsake æ”¾å¼ƒ  for the sake of
+forswear æ”¾å¼ƒï¼Œä½œä¼ªè¯
+renounce æ”¾å¼ƒï¼ˆæƒåŠ›/ä¿¡ä»°ï¼‰	retire+announce
+relinquish ï¼ˆå‹‰å¼ºåœ°ï¼‰æ”¾å¼ƒ
 ------------------------------------------------
-abominate Í´ºŞ
-omen Ğ×Õ×	amen
-ominous Ğ×Õ×µÄ
+abominate ç—›æ¨
+omen å‡¶å…†	amen
+ominous å‡¶å…†çš„
 
-abhor Í´ºŞ	horrible ¿ÉÅÂµÄ
+abhor ç—›æ¨	horrible å¯æ€•çš„
 de off
-detest Í´ºŞ
-loathe Í´ºŞ	oath ÊÄÑÔ
-loath ²»Ô¸Òâ
+detest ç—›æ¨
+loathe ç—›æ¨	oath èª“è¨€
+loath ä¸æ„¿æ„
 
-deforest ¿³·¥
-dehydrate ÍÑË®
+deforest ç ä¼
+dehydrate è„±æ°´
 ------------------------------------------------
 ab+t/c = abs
 tain=>to keep
 per away/through
-abstain ½û¾ø£¬·ÅÆú	abstain from drinking or smoking
-abstinence ½ûÓû
-abstract ÕªÒª
-abscond Ç±ÌÓ
-absolve ÉâÃâ£¬¿íË¡
-maintain Î¬»¤
+abstain ç¦ç»ï¼Œæ”¾å¼ƒ	abstain from drinking or smoking
+abstinence ç¦æ¬²
+abstract æ‘˜è¦
+abscond æ½œé€ƒ
+absolve èµ¦å…ï¼Œå®½æ•
+maintain ç»´æŠ¤
 de  down
-detain ¿ÛÁô
-retain ±£Áô
-pertain ¹ØÓÚ	pertinent Ïà¹ØµÄ
-distain ±áµÍ
-disdain ÃêÊÓ
+detain æ‰£ç•™
+retain ä¿ç•™
+pertain å…³äº	pertinent ç›¸å…³çš„
+distain è´¬ä½
+disdain è—è§†
 ------------------------------------------------
-ac/acerb/acr=>sour£¬sharp
-acerbic ËáµÄ£¬¼â¿ÌµÄ
-exacerbate ¶ñ»¯
-acrid ¼â¿ÌµÄ£¬´Ì±ÇµÄ
-acrimonious ¼â¿ÌµÄ
-acme ¶¥·å£¬¶¥µã	acne ·Û´Ì£¬¶»¶»
-acumen ¾«Ã÷£¬ÃôÈñ
+ac/acerb/acr=>sourï¼Œsharp
+acerbic é…¸çš„ï¼Œå°–åˆ»çš„
+exacerbate æ¶åŒ–
+acrid å°–åˆ»çš„ï¼Œåˆºé¼»çš„
+acrimonious å°–åˆ»çš„
+acme é¡¶å³°ï¼Œé¡¶ç‚¹	acne ç²‰åˆºï¼Œç—˜ç—˜
+acumen ç²¾æ˜ï¼Œæ•é”
 ------------------------------------------------
-ÖªÊ¶µã3   A×ÖÄ¸¿ªÍ·µÄµ¥´Ê    affluence-ally
+çŸ¥è¯†ç‚¹3   Aå­—æ¯å¼€å¤´çš„å•è¯    affluence-ally
 
 flu=>flow
-super=>³¬¼¶£¬on£¬more
-a+Ë«¸¨Òô ¼ÓÇ¿
-affluence ¸»Ô££¬¸»×ã	well-to-do£¬well-off
-superfluous ¶àÓàµÄ
-effluvia ¶ñ³ô .n
-fluctuate ²¨¶¯£¨Êı×ÖÁ÷¶¯£©
-flux ±äÇ¨£¨Ê±¼äÁ÷¶¯£©
-influx £¨ÈËÈº´óÁ¿µØ£©Ó¿Èë
+super=>è¶…çº§ï¼Œonï¼Œmore
+a+åŒè¾…éŸ³ åŠ å¼º
+affluence å¯Œè£•ï¼Œå¯Œè¶³	well-to-doï¼Œwell-off
+superfluous å¤šä½™çš„
+effluvia æ¶è‡­ .n
+fluctuate æ³¢åŠ¨ï¼ˆæ•°å­—æµåŠ¨ï¼‰
+flux å˜è¿ï¼ˆæ—¶é—´æµåŠ¨ï¼‰
+influx ï¼ˆäººç¾¤å¤§é‡åœ°ï¼‰æ¶Œå…¥
 ------------------------------------------------
 front=>forehead
-affront ¹«¿ªÎêÈè£¬ÇáÃï .n
-confront Ãæ¶Ô .vt
-effrontery ºñÑÕÎŞ³Ü
-revile ÈèÂî
-vilify ·Ì°ù
-abuse ÈèÂî£¬ÀÄÓÃ
-evil Ğ°¶ñ
-vile Ğ°¶ñµÄ£¬±°±ÉµÄ
-abusive ÈèÂîµÄ£¬Å°´ıµÄ
-disabuse ¾ÀÕı£¨´íÎóË¼Ïë£©
-peruse ÑĞ¶Á£¬Ï¸ÔÄ	peruse a book
+affront å…¬å¼€ä¾®è¾±ï¼Œè½»è”‘ .n
+confront é¢å¯¹ .vt
+effrontery åšé¢œæ— è€»
+revile è¾±éª‚
+vilify è¯½è°¤
+abuse è¾±éª‚ï¼Œæ»¥ç”¨
+evil é‚ªæ¶
+vile é‚ªæ¶çš„ï¼Œå‘é„™çš„
+abusive è¾±éª‚çš„ï¼Œè™å¾…çš„
+disabuse çº æ­£ï¼ˆé”™è¯¯æ€æƒ³ï¼‰
+peruse ç ”è¯»ï¼Œç»†é˜…	peruse a book
 ------------------------------------------------
-sl=>µ¹ÏÂ  sleep
-lev=>rise£¬light
-allay ¼õÇá£¬¼õÉÙ£¨Çé¸Ğ£©.vt
-alleviate ¼õÇá
-levity Çá¸¡£¬ÇáÂÊ
-levy Õ÷ÊÕ 	levy tax on
-gravity ÖØÁ¦
-rescind ³·Ïú£¬·Ï³ı
-scissors ¼ôµ¶
-slay kill	slew-slain  ¡®ËÀàÏ¡¯
-flay °şÆ¤		flay a dog
-waylay Âñ·ü
+sl=>å€’ä¸‹  sleep
+lev=>riseï¼Œlight
+allay å‡è½»ï¼Œå‡å°‘ï¼ˆæƒ…æ„Ÿï¼‰.vt
+alleviate å‡è½»
+levity è½»æµ®ï¼Œè½»ç‡
+levy å¾æ”¶ 	levy tax on
+gravity é‡åŠ›
+rescind æ’¤é”€ï¼ŒåºŸé™¤
+scissors å‰ªåˆ€
+slay kill	slew-slain  â€˜æ­»å˜â€™
+flay å‰¥çš®		flay a dog
+waylay åŸ‹ä¼
 ------------------------------------------------
-ÖªÊ¶µã4   A×ÖÄ¸¿ªÍ·µÄµ¥´Ê    aloof- ambush
+çŸ¥è¯†ç‚¹4   Aå­—æ¯å¼€å¤´çš„å•è¯    aloof- ambush
 
-a=>not£¬¼ÓÇ¿£¬ĞÎÈİ´Ê±ä¸±´Ê
-aloof Àäµ­µÄ£¬ ¹ÂÁãµÄ  aleave
-aground    ¸éÇ³µÄ
-afoot    Í½²½µÄ£¬½øĞĞÖĞµÄ
-alight    È¼ÉÕµÄ£¬×Å»ğµÄ
-akin    Í¬×åµÄ£¬Í¬Ô´µÄ 	aking£¨»ÊÇ×¹úÆİ£©
+a=>notï¼ŒåŠ å¼ºï¼Œå½¢å®¹è¯å˜å‰¯è¯
+aloof å†·æ·¡çš„ï¼Œ å­¤é›¶çš„  aleave
+aground    ææµ…çš„
+afoot    å¾’æ­¥çš„ï¼Œè¿›è¡Œä¸­çš„
+alight    ç‡ƒçƒ§çš„ï¼Œç€ç«çš„
+akin    åŒæ—çš„ï¼ŒåŒæºçš„ 	akingï¼ˆçš‡äº²å›½æˆšï¼‰
 
 path=>feeling
-apathy    Àäµ­£¬ÎŞÇé
-sympathy    Í¬Çé
-antipathy ·´¸Ğ
+apathy    å†·æ·¡ï¼Œæ— æƒ…
+sympathy    åŒæƒ…
+antipathy åæ„Ÿ
 
-frigid    Àäµ­µÄ
-offish    Àäµ­µÄ
-passion  ¼¤Çé
+frigid    å†·æ·¡çš„
+offish    å†·æ·¡çš„
+passion  æ¿€æƒ…
 ------------------------------------------------
-g¡¢h¿ÉÈ¥µô
+gã€hå¯å»æ‰
 altr/alter=>other
-altruism ÀûËûÖ÷Òå	egoism    Àû¼ºÖ÷Òå	egocentric    ÒÔ×ÔÎÒÎªÖØĞÄµÄ
-alternate ½»Ìæ£¬ÂÖÁ÷
-altercate ÕùÂÛ
-adulterate ²Î¼Ù£¬²ÎÔÓ£¬¼éÎÛ
-alternative Ìæ´ú
+altruism åˆ©ä»–ä¸»ä¹‰	egoism    åˆ©å·±ä¸»ä¹‰	egocentric    ä»¥è‡ªæˆ‘ä¸ºé‡å¿ƒçš„
+alternate äº¤æ›¿ï¼Œè½®æµ
+altercate äº‰è®º
+adulterate å‚å‡ï¼Œå‚æ‚ï¼Œå¥¸æ±¡
+alternative æ›¿ä»£
 ------------------------------------------------
-esce/escent/escence Öğ½¥µÄ
-amalgam »ìºÏÎï£¨amalgamate ºÏ²¢£©
-coalesce ºÏ²¢
+esce/escent/escence é€æ¸çš„
+amalgam æ··åˆç‰©ï¼ˆamalgamate åˆå¹¶ï¼‰
+coalesce åˆå¹¶
 ------------------------------------------------
-ambush Ç±·ü£¬·ü±ø
-lush Ã¯Ê¢µÄ
-blush Á³ºì v.
-plush    ºÀ»ªµÄ£¬Ã«ÈŞ
-gush Ó¿³ö
-hush °²¾²
+ambush æ½œä¼ï¼Œä¼å…µ
+lush èŒ‚ç››çš„
+blush è„¸çº¢ v.
+plush    è±ªåçš„ï¼Œæ¯›ç»’
+gush æ¶Œå‡º
+hush å®‰é™
 ------------------------------------------------
-ÖªÊ¶µã5   A×ÖÄ¸¿ªÍ·µÄµ¥´Ê     amorous- amphibian
+çŸ¥è¯†ç‚¹5   Aå­—æ¯å¼€å¤´çš„å•è¯     amorous- amphibian
 
-amorous ¶àÇéµÄ£¬Áµ°®µÄ
-amour ÁµÇé
-amiable ºÍ°ª¿ÉÇ×
-amicable ÓÑºÃ
-amity  ÓÑºÃ
-enmity µĞÒâ
-enamor ÃÔÁµ
-pamper Äç°®
-hostile µĞ·½£¬µĞ¶ÔµÄ
+amorous å¤šæƒ…çš„ï¼Œæ‹çˆ±çš„
+amour æ‹æƒ…
+amiable å’Œè”¼å¯äº²
+amicable å‹å¥½
+amity  å‹å¥½
+enmity æ•Œæ„
+enamor è¿·æ‹
+pamper æººçˆ±
+hostile æ•Œæ–¹ï¼Œæ•Œå¯¹çš„
 ------------------------------------------------
 p/b/f/v/ph
-amphi/ambi=>around£¬two
-amphibian Á½ÆÜµÄ
-ambiguous Ä£ÀâÁ½¿É
-ambivalent Ã¬¶ÜµÄ
-ambidextrous ÁéÇÉµÄ
-ambience Æø·Õ
-ambition Ò°ĞÄ
+amphi/ambi=>aroundï¼Œtwo
+amphibian ä¸¤æ –çš„
+ambiguous æ¨¡æ£±ä¸¤å¯
+ambivalent çŸ›ç›¾çš„
+ambidextrous çµå·§çš„
+ambience æ°”æ°›
+ambition é‡å¿ƒ
