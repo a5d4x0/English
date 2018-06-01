@@ -1,7 +1,7 @@
 delirium 精神狂乱，狂喜
 delirious 发狂的
-demented 疯狂
-deranged 疯狂
+demented 疯狂的
+deranged 疯狂的
 frenzy 疯狂
 freak 怪物
 ------------------------------------------------
@@ -43,7 +43,7 @@ port=>to carry
 deport 举止，驱逐
 deportation 驱逐
 deportment 行为
-potable 可饮用的
+potable 可饮用的，饮料
 portable 便携的
 disport 玩耍
 ------------------------------------------------
