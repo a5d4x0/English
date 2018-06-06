@@ -1,90 +1,98 @@
 知识点34  H字母开头的单词   hale-herbicide
 
-hale
-hardy 耐寒
-sturdy 坚固
-robust 强大的
-brawny 壮汉
-salubrious 有益健康
+hale 强壮的
+hardy 耐寒的，强壮的
+sturdy 强健的
+robust 强壮的
+brawny 健壮的
+salubrious  healthy
 brown 棕色
-brawn 布朗
-salvage 抢救
+brawn 肌肉
+salvage 营救
 ------------------------------------------------
-hallucination
-holly 冬青
+luc/lustr=>light
+hallucination 幻觉，幻想 holly+
+mirage 幻觉，海市蜃楼
 luster 光泽
-lackluster 泛善可陈
-lucid 清晰的
+lackluster 缺少光泽
+lucid 清楚的
 elucidate 阐明
-pellucid 易懂
-translucent 半透明
-illusion 错觉
-delusion 妄想
+pellucid 清楚的
+translucent 半透明的
+
+illusion 幻觉
+delusion 幻觉
 ------------------------------------------------
-haphazard
+hap=>luck happy
+haphazard 偶然的，随便的
 unplanned 计划外的
-random 随机
+
+random 随机的
 systematic 系统的
-hazard 危害
+
+hazard 危险
 hapless 不幸的
-mishap 不测
+mishap 不幸
 ------------------------------------------------
-hassle
+hassle （言辞上的）激战，争论，困扰
 haggle 讨价还价
 bargain 讨价还价
-harry 恶魔
-harass 骚扰
-pester 纠缠
-molest 骚扰
-badger 獾
-harassment 骚扰
+harry 困扰
+harass 骚扰   ass sexual harassment
+pester 骚扰，害虫
+molest 骚扰，猥亵  摸
+badger 困扰   徽章多
+badge 徽章
 ------------------------------------------------
-herbicide
+herbicide 除草剂
 herbivore 草食动物
 genocide 种族灭绝
 ecocide 生态灭绝
 ecosystem 生态系统
 ecology 生态环境
-pesticide 农药
+pesticide 杀虫剂
 ------------------------------------------------
 知识点35  H字母开头的单词   heresy-hypocrite
 
-heresy
+heresy 异端，异教
 heretical 异端
 heretic 异教徒
 hearsay 传闻
+evil cult 邪教
 ------------------------------------------------
-hermetic
+hermetic 密封的，与外界隔绝的，深奥难懂的
 hermes 爱马仕
 hermit 隐士
+
 mercury 汞
-mercurial 善变的
-mercenary 佣兵
+mercurial 善变的，水银的，口才好的
+mercenary 唯利是图的
 ------------------------------------------------
-hover
-lounge 室
+hover 盘旋
+lounge 休息室
 ------------------------------------------------
-hump
-lump 块
+ump=>不平
+hump 驼峰，驼背，隆起
+lump 大块，肿块
 bump 撞击
-dump 转储
-plump 丰满
-slump 衰退
+dump 倾倒，转储
+plump 丰满的
+slump 暴跌 plummet
 clump 丛
 rumple 弄皱
-crumple 皱
+crumple 弄皱
 rumpus 喧嚣
-plummet 暴跌
 ------------------------------------------------
-hypnosis
-hypnotize 施催眠术
+hypo=>below,less
+hyper=>above,more
+hypnosis 催眠状态，催眠
 hypnotize 催眠
-hypnotic 催眠
+hypnotic 催眠的
 hypnotist 催眠师
 insomnia 失眠
-somnolent 昏昏欲睡
-soporific 催眠
-hypocrite
+somnolent 催眠的
+soporific 催眠的，安眠药
+hypocrite 伪君子，伪善者
 hypercritical 吹毛求疵
 hypocritical 虚伪的
 hype 炒作
