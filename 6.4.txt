@@ -3,6 +3,7 @@
 cret=>separate
 excrete 排泄，分泌
 secrete 分泌
+
 discrete 分开的，离散
 discreet 谨慎的
 ------------------------------------------------
@@ -14,7 +15,9 @@ culprit 罪犯
 ------------------------------------------------
 empt/em=>to take
 exempt 免除，被免除的   example
+
 preempt 抢占，优先购买
+
 redemption 赎回
 redeem 赎回
 ------------------------------------------------
@@ -26,10 +29,11 @@ onus 责任，负担
 plic/ply=>fold 倍数，折叠
 explicable 可说明的，可解释的
 explicate 说明
+
 implicate 暗示，卷入    imply，involve
+
 explicit 显示的
 implicit 暗示的
-imply 暗示
 ------------------------------------------------
 extemporize 即兴创作    temporary 临时的
 contemporary 当代的
@@ -40,10 +44,12 @@ prompt 提示，迅速的
 ------------------------------------------------
 extricate 使解脱，救出  trick 把戏
 entangle 纠缠
+
 intricate 复杂的    complicated
 ------------------------------------------------
 exude 流出，渗出
 exodus 大批的离开
+
 influx 涌入
 ooze 渗出
 ------------------------------------------------
@@ -57,14 +63,16 @@ Halloween 万圣节
 holy 圣洁的
 ------------------------------------------------
 fawn 小鹿，奉承，讨好
+
 fauna 动物
-flora 植物
-flower 花
+flora 植物  flower 花
+
 adulate 谄媚
 cringe 畏缩；奉承
 flatter 奉承
-toady 拍马屁的人
-sycophant 拍马屁的人    suck up to
+toady 谄媚，谄媚者
+sycophant 谄媚的，谄媚者    
+suck up to 拍···马屁
 ------------------------------------------------
 feign 假装（某种情感）feign death
 feint 假装，佯攻，假的
@@ -111,7 +119,7 @@ gaggle 鹅群 goose 鹅
 group 群
 ------------------------------------------------
 flout 轻视，藐视，违抗 fly out disobey defy    
-tout 拉客，吹捧
+tout 拉客
 sn=>nose
 snout 鼻口部
 rupt=>break
@@ -138,7 +146,7 @@ feit=>fact 做
 forfeit 没收物，丧失的东西；没收，丧失
 surfeit 过度，饮食过度
 counterfeit 伪造，假冒的 counterfeit money 假钱
-confiscate 没收，充公   fiscal 财政
+confiscate 没收，充公   fiscal 财政的
 ------------------------------------------------
 知识点30  G字母开头的单词   forger——garnish
 
@@ -184,10 +192,9 @@ gainsay 否认    against say
 negate 否定 negative
 disclaim 否认
 avow 承认
-aver 承认
 ------------------------------------------------
 gar=>decorate
-garnish （菜）装饰
+garnish （配菜）装饰
 garlic 大蒜
 garish 花哨的，过分装饰的
 garment 服装

@@ -16,15 +16,15 @@ accolade 荣誉
 acclaim 喝彩
 commend 称赞
 eulogize 歌颂
-exalt 高举  tall
-extol 高歌  tall
+exalt 赞美  tall
+extol 赞美  tall
 compliment 赞美
 laud 赞美；称赞 lord
 complement 补充 complete
 ------------------------------------------------
 lapid=>stone
 lapidary 修宝石的人
-dilapidate 要坍塌似的，年久失修的
+dilapidate 毁坏，要坍塌似的，年久失修的
 
 relics 遗迹；遗骸
 derelict 废弃物，玩忽职守的
@@ -177,7 +177,7 @@ epi=>on,among,behind
 demo=>people    democracy 民主
 epidemic 流行的，传染的
 prologue 开场白
-epilogue 结束语后记
+epilogue 结束语，后记
 epigraph 碑文
 endemic （地方性）流行的
 pan=>all
