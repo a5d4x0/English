@@ -49,7 +49,7 @@ herbivore 草食动物
 genocide 种族灭绝
 ecocide 生态灭绝
 ecosystem 生态系统
-ecology 生态环境
+ecology 生态学
 pesticide 杀虫剂
 ------------------------------------------------
 知识点35  H字母开头的单词   heresy-hypocrite
@@ -74,9 +74,9 @@ lounge 休息室
 ump=>不平
 hump 驼峰，驼背，隆起
 lump 大块，肿块
-bump 撞击
+bump 肿块，撞击
 dump 倾倒，转储
-plump 丰满的
+plump 使丰满
 slump 暴跌 plummet
 clump 丛
 rumple 弄皱
