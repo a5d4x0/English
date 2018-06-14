@@ -167,65 +167,70 @@ misinform 误传，提供错误消息
 ------------------------------------------------
 知识点44  M字母开头的单词   modish-mutate
 
-modish 
-mode 模式
+mode=》方法，样式
+modish 流行的，时髦的
+mode 样式
 modern 现代
-model 产品型号
+model 模型
 moderate 中度
 outmoded 过时
-modulate 调制技术
-modest 谦虚
-moderate 温和的
+modulate 调整（声音）
+modest 谦虚的，适当的
+moderate 适度的；减轻
 ------------------------------------------------
-monarch 
+monarch 君主
 matriarchy 母系社会
 ------------------------------------------------
-monogamy 
-marriage 婚姻状况
-polygamy 一夫一妻制
+gam=》marriage
+monogamy 一夫一妻制
+polygamy 一夫多妻制
+polyandry 一妻多夫制
 bigamy 重婚
 misogamy 厌恶结婚
 ------------------------------------------------
 monopoly 垄断
 ------------------------------------------------
-moribund 
+mort=》death
+moribund 垂死的，即将结束的
 inchoate 早期
-jocund 欢乐的
+jocund 愉快的
 immortal 不朽的
-morbid 病态
+morbid 病态的  ‘毛病的’
 mortality 死亡率
 mortuary 停尸间
 postmortem 尸检
-mortify 苦恼
 autopsy 尸检
+mortify 使蒙羞
 ------------------------------------------------
-mote 
-mite 螨
-mete 判决
+mote 尘埃，微粒
+mite 一点，螨
+mete out 给予（惩罚）
 minute 微小的
 ------------------------------------------------
-mundane 
-worldly 世俗
-earthly 地球上
-subcelestial 尘世的
+mundane 世俗的，人间的
+worldly 世俗的，人间的
+earthly 世俗的，人间的
+subcelestial 人间的
 ------------------------------------------------
-mutate 
-mute 静音
-commute 上下班
+mut=》change
+mutate 变异，突变
+mute 静音；沉默寡言的
+commute 交互；上下班通勤；减刑
 mutiny 兵变
 ------------------------------------------------
 知识点45  N字母开头的单词   narcissist-nonchalance
 
-narcissist 
+narcissist 自恋狂
 narcissus 水仙花
 narcissism 自恋的
 self-abasement 自卑
 abase 降低、贬低
-debase 减低、
-demean意思的下降、
-degrade级别的下降
+debase 减低
+demean 意思的下降
+degrade 级别的下降
 ------------------------------------------------
-nascent 
+nas/nat=》born nature
+nascent 初生的
 -escent 渐渐 
 形容词后缀
 -escence 渐渐 
@@ -237,166 +242,46 @@ neonate 婴儿
 renaissance 复兴
 natal 出生的、诞生的
 ------------------------------------------------
-nautical 
+nau/nav=》ship
+nautical 船员的，航海的
 navy 航海
 nausea 晕船
 navigable 可通航的
 circumnavigation 环球航行
 navigate 航行
 ------------------------------------------------
-negate 
+negate 否定，打消
 gainsay 否定
 abnegate 否定、放弃
 renege 食言
 renegade 叛变
 ------------------------------------------------
-nexus 
-annex 附件
+nex/nect=》join
+nexus 连结，联系
+annex 吞并
 merge 合并
 ------------------------------------------------
-nocturnal 
+nocturnal 夜晚的
 diurnal 日程
 adjourn 休会
 noctilucent 夜光的
-equinox 春分
+equinox 春秋分
 ------------------------------------------------
-nonchalance 
+nonchalance 冷淡的
 calorie 热量
 phlegmatic 冷淡的
 ------------------------------------------------
 知识点46  N字母开头的单词   nondescript-numb
 
-nondescript 
+script/scribe=》write
+nondescript 无可名状的，难以区别的，无特征的
 script 脚本
 scribe 隶
-subscribe:订阅
+subscribe 订阅，捐赠
 ascribe 归因于
 inscribe 题字
 transcribe 抄写
-prescribe 规定
+prescribe 开处方，规定
 proscribe 禁止
-circumscribe 外接
-conscript 应征入伍者
-------------------------------------------------
-nonplus 
-surplus盈余
-nonconformist 异己
-nonsuch 绝品
-nonpareil 无比
-compare 比较
-nonentity 虚无
-entire 整个
-mystify 故弄玄虚
-confound 惑
-confuse 惑
-------------------------------------------------
-novice 
-renovate 修复
-innovate 创新
-veteran 老将
-inveterate 根深蒂固
-smoker 抽烟者
-------------------------------------------------
-noxious 
-deleterious 有害的
-detrimental 不利
-nocuous 有毒的
-obnoxious 讨厌的
-noisome 丛生
-pernicious 有害
-internecine 自相残杀
-------------------------------------------------
-numb 
-number 数
-dumb 哑
-anesthetic 麻醉剂
-local 当地
-general 一般
-------------------------------------------------
-知识点47  O字母开头的单词   oblation-opportune
-
-oblation 
-sacrifice 牺牲
-allocate 分配
-dislocate 脱臼
-collate 对照
-elate 欢欣鼓舞
-dilate 膨胀
-proofread 校对
-dilute 稀释
-------------------------------------------------
-oblivious 
-oblivion 遗忘
-fall into陷入
-------------------------------------------------
-obsequious 
-fawn 奉承
-toady 拍马屁的人
-flatter 奉承
-sycophant 拍马屁的人
-sequel 续集
-persecute 迫害
-prosecute 起诉
-interpreter 翻译员
-consecutive 连续
-consequence 结果
-------------------------------------------------
-obstreperous 
-stray 迷路
-pedestrian 行人
-demonstration 示范
-capricious 任性
-caprice 任性
-rowdy 吵闹的
-row 行
-clamorous 闹哄哄
-claim 声称
-------------------------------------------------
-odyssey 
-discord 不和
-------------------------------------------------
-offhand 
-extemporize 即兴表演
-impromptu 即兴
-------------------------------------------------
-opportune 
-opportunity 机会
-------------------------------------------------
-知识点48  O字母开头的单词   orthodox-overbearing
-
-orthodox 
-orthodontic 正畸
-orthography 拼字
-heterodox 非正统的
-heretical 邪
-paradoxical 悖论
-conventional 常规
-------------------------------------------------
-outlet 
-omelet 煎蛋卷
-amulet 护身符
-rivulet 溪流
-river 河
-------------------------------------------------
-outset 
-onset 发病
-commence 开始
-comment 评论
-commencement 开始
-outwit 智胜
-outfox 智胜
-outrage 愤怒
-rage 愤怒
-outlandish 异乎寻常
-------------------------------------------------
-overbearing 
-supercilious 高傲
-haughty 高傲
-height 傲慢
-oversee 监视
-overthrow 推翻
-overwrought 过度紧张的
-overture 序曲
-overstate 夸大
-override 覆盖
-overhaul 翻修
+circumscribe 限制，外接
+conscript 征兵，应征入伍者
