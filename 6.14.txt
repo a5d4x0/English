@@ -1,31 +1,402 @@
 
 lassitude 疲乏
-magnitude：大小，重大
-multitude：许多
-fortitude：刚毅
-latitude：经纬
-solitude：孤独
-solicitude：关怀
-turpitude：沦丧
-disturb：免打扰
-platitude：老生常谈的问题
-aptitude：资质
-vicissitude：变迁
-
-latent 潜在的 (~ power) 
+magnitude 大小，重大
+multitude 许多
+fortitude 坚毅
+latitude 纬度
+solitude 孤独
+solicitude 关怀，牵挂
+turpitude 卑鄙  disturb 打扰
+platitude 陈词滥调，老生常谈的问题  flat
+aptitude 天资，适应能力强   adapt
+vicissitude 变迁    cissy 娘娘腔
+------------------------------------------------
+latent 潜在的   latent power 潜力
 latency n.潜在
+------------------------------------------------
+later=》side
+lateral 横向的，侧面的
+bilateral 双边的
+unilateral 单方面的
+collateral 旁系的；抵押物
+------------------------------------------------
+leniency 宽大，仁慈，温和
+clement 宽厚的
 
-lateral（bilateral：双边
-unilateral：单方面的
-collateral：旁系的；附属的）
+lenient 宽厚的
+relent 宽厚 re+lent
+relentless 冷酷无情的
+callous 无情
+------------------------------------------------
+lethe   ‘立死’ 忘川河
+lethargic 昏睡的，瞌睡的
+lethargy 昏睡
+lethal 致命的
+fatal 致命的
+------------------------------------------------
+liquidate   清算
+liquid 清澈的
+liquefy 液化
+------------------------------------------------
+知识点41  M字母开头的单词   maelstrom-mandatory
 
-leniency（lenient：宽松
-relent：松口
-relentless：狠话
-callous：无情）
-lethargic（lethargy：嗜睡
-lethal：致命的
-fatal：致命）
+maelstrom 大漩涡，社会混乱  male 男性 storm 风暴
+vortex 漩涡
+eddy 漩涡
+whirlpool 漩涡
+------------------------------------------------
+magnanimous 宽宏大量的，有雅量的    magn（大的）+anim（to breathe）animate 动画
+magnate 巨头，财主
+magniloquent 说大话的
 
-liquidate（liquid：清澈的
-liquefy：液化）
+animate 活的，生动的；激励；制作动画片
+unanimous 达成一致的
+animosity 敌意
+animus 敌意
+hostile 敌对
+equanimity 平静
+pusillanimous 胆怯的    pussy
+------------------------------------------------
+maladroit 不灵巧的
+gauche 笨拙的，粗糙的
+------------------------------------------------
+malaise 不舒服，小病
+malady 疾病
+ailment 小病    aliment 营养，食物
+alimentary 食物的，营养的
+indisposition 小病
+------------------------------------------------
+mand=》order（command）
+mandatory 命令的，强制的
+mandate 命令
+remand 押回
+countermand 取消命令
+
+compulsory 义务的   compel
+obligatory 必须的
+imperative 必须的   emperor 皇帝
+------------------------------------------------
+知识点42  M字母开头的单词   maniacal-metamorphose
+
+mania=》疯狂  mad
+maniacal 发狂的，疯狂的
+
+pyromania 纵火狂
+dip=》蘸一下
+dipsomania 嗜酒狂   
+megalomania 自大狂
+kleptomania 盗窃癖  kept
+
+hysteria 歇斯底里
+------------------------------------------------
+marital 婚姻的  marital fraud   骗婚
+martial 军事的    Mars 战神
+
+nuptial 婚姻的  nuptial bliss 婚姻幸福
+prenuptial 婚前
+postnuptial 婚后
+------------------------------------------------
+melancholy 忧郁的   me+lan 我蓝
+saturnine 忧郁的    Saturday 加班到nine o'clock
+lugubrious 忧郁的   露骨
+somber 忧郁的   bomber 轰炸机 ‘死’
+------------------------------------------------
+meretricious 华丽而庸俗的，俗气的，娼妓的   mere+tick小把戏
+garish 华而不实的
+gaudy 华而不实的    奥迪
+tawdry 华丽而庸俗的
+meritorious 值得赞扬的
+------------------------------------------------
+morph=》form
+meta=》change
+metamorphose 变形，变质 
+
+metaphor 比喻
+amorphous 无定形的
+metabolism 新陈代谢
+
+transform 变形
+transmogrify 变形（变成奇怪的形状）
+transfigure 变美
+------------------------------------------------
+知识点43  M字母开头的单词   meticulous-misgiving
+
+meticulous 小心翼翼的   met+cult（邪教）
+discreet 谨慎的
+prudent 谨慎的
+provident 谨慎的，有远见的
+------------------------------------------------
+mater/matr=》mother
+metropolitan 首都的，主要都市的
+metropolis 大都市
+
+mater/matr=》mother
+maternal 母系的
+maternity 产妇的
+matriarchy 母系社会
+sorority 姐妹会
+
+pater/patr=》father
+paternal 父系的
+patron 常客，老主顾
+patriotism 爱国主义
+expatriate  驱逐
+repatriate 遣返
+compatriot 同胞
+
+frater/fratr=》brother
+fraternal 兄弟般的
+fraternity 兄弟会，兄弟情
+------------------------------------------------
+migr=》move
+migratory 迁徙的，流浪的
+immigrate 移民
+emigrate 移民
+migrate 迁移
+transmigration 轮回，迁徙
+émigré 流亡
+nomadic 游牧的  settled 定居的
+------------------------------------------------
+mis=》mistake，hate
+misgiving 疑惧，疑虑
+mischievous 淘气的  mischief 恶作剧
+misanthrope 厌世者
+misperceive 误解
+miscreant 恶棍
+misinform 误传，提供错误消息
+------------------------------------------------
+知识点44  M字母开头的单词   modish-mutate
+
+modish 
+mode 模式
+modern 现代
+model 产品型号
+moderate 中度
+outmoded 过时
+modulate 调制技术
+modest 谦虚
+moderate 温和的
+------------------------------------------------
+monarch 
+matriarchy 母系社会
+------------------------------------------------
+monogamy 
+marriage 婚姻状况
+polygamy 一夫一妻制
+bigamy 重婚
+misogamy 厌恶结婚
+------------------------------------------------
+monopoly 垄断
+------------------------------------------------
+moribund 
+inchoate 早期
+jocund 欢乐的
+immortal 不朽的
+morbid 病态
+mortality 死亡率
+mortuary 停尸间
+postmortem 尸检
+mortify 苦恼
+autopsy 尸检
+------------------------------------------------
+mote 
+mite 螨
+mete 判决
+minute 微小的
+------------------------------------------------
+mundane 
+worldly 世俗
+earthly 地球上
+subcelestial 尘世的
+------------------------------------------------
+mutate 
+mute 静音
+commute 上下班
+mutiny 兵变
+------------------------------------------------
+知识点45  N字母开头的单词   narcissist-nonchalance
+
+narcissist 
+narcissus 水仙花
+narcissism 自恋的
+self-abasement 自卑
+abase 降低、贬低
+debase 减低、
+demean意思的下降、
+degrade级别的下降
+------------------------------------------------
+nascent 
+-escent 渐渐 
+形容词后缀
+-escence 渐渐 
+名词后缀
+-esce 渐渐 
+动词后缀
+innate=inborn 天生的
+neonate 婴儿
+renaissance 复兴
+natal 出生的、诞生的
+------------------------------------------------
+nautical 
+navy 航海
+nausea 晕船
+navigable 可通航的
+circumnavigation 环球航行
+navigate 航行
+------------------------------------------------
+negate 
+gainsay 否定
+abnegate 否定、放弃
+renege 食言
+renegade 叛变
+------------------------------------------------
+nexus 
+annex 附件
+merge 合并
+------------------------------------------------
+nocturnal 
+diurnal 日程
+adjourn 休会
+noctilucent 夜光的
+equinox 春分
+------------------------------------------------
+nonchalance 
+calorie 热量
+phlegmatic 冷淡的
+------------------------------------------------
+知识点46  N字母开头的单词   nondescript-numb
+
+nondescript 
+script 脚本
+scribe 隶
+subscribe:订阅
+ascribe 归因于
+inscribe 题字
+transcribe 抄写
+prescribe 规定
+proscribe 禁止
+circumscribe 外接
+conscript 应征入伍者
+------------------------------------------------
+nonplus 
+surplus盈余
+nonconformist 异己
+nonsuch 绝品
+nonpareil 无比
+compare 比较
+nonentity 虚无
+entire 整个
+mystify 故弄玄虚
+confound 惑
+confuse 惑
+------------------------------------------------
+novice 
+renovate 修复
+innovate 创新
+veteran 老将
+inveterate 根深蒂固
+smoker 抽烟者
+------------------------------------------------
+noxious 
+deleterious 有害的
+detrimental 不利
+nocuous 有毒的
+obnoxious 讨厌的
+noisome 丛生
+pernicious 有害
+internecine 自相残杀
+------------------------------------------------
+numb 
+number 数
+dumb 哑
+anesthetic 麻醉剂
+local 当地
+general 一般
+------------------------------------------------
+知识点47  O字母开头的单词   oblation-opportune
+
+oblation 
+sacrifice 牺牲
+allocate 分配
+dislocate 脱臼
+collate 对照
+elate 欢欣鼓舞
+dilate 膨胀
+proofread 校对
+dilute 稀释
+------------------------------------------------
+oblivious 
+oblivion 遗忘
+fall into陷入
+------------------------------------------------
+obsequious 
+fawn 奉承
+toady 拍马屁的人
+flatter 奉承
+sycophant 拍马屁的人
+sequel 续集
+persecute 迫害
+prosecute 起诉
+interpreter 翻译员
+consecutive 连续
+consequence 结果
+------------------------------------------------
+obstreperous 
+stray 迷路
+pedestrian 行人
+demonstration 示范
+capricious 任性
+caprice 任性
+rowdy 吵闹的
+row 行
+clamorous 闹哄哄
+claim 声称
+------------------------------------------------
+odyssey 
+discord 不和
+------------------------------------------------
+offhand 
+extemporize 即兴表演
+impromptu 即兴
+------------------------------------------------
+opportune 
+opportunity 机会
+------------------------------------------------
+知识点48  O字母开头的单词   orthodox-overbearing
+
+orthodox 
+orthodontic 正畸
+orthography 拼字
+heterodox 非正统的
+heretical 邪
+paradoxical 悖论
+conventional 常规
+------------------------------------------------
+outlet 
+omelet 煎蛋卷
+amulet 护身符
+rivulet 溪流
+river 河
+------------------------------------------------
+outset 
+onset 发病
+commence 开始
+comment 评论
+commencement 开始
+outwit 智胜
+outfox 智胜
+outrage 愤怒
+rage 愤怒
+outlandish 异乎寻常
+------------------------------------------------
+overbearing 
+supercilious 高傲
+haughty 高傲
+height 傲慢
+oversee 监视
+overthrow 推翻
+overwrought 过度紧张的
+overture 序曲
+overstate 夸大
+override 覆盖
+overhaul 翻修
