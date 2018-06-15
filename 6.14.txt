@@ -1,4 +1,3 @@
-
 lassitude 疲乏
 magnitude 大小，重大
 multitude 许多
@@ -14,7 +13,7 @@ vicissitude 变迁    cissy 娘娘腔
 latent 潜在的   latent power 潜力
 latency n.潜在
 ------------------------------------------------
-later=》side
+later=>side
 lateral 横向的，侧面的
 bilateral 双边的
 unilateral 单方面的
@@ -66,7 +65,7 @@ ailment 小病    aliment 营养，食物
 alimentary 食物的，营养的
 indisposition 小病
 ------------------------------------------------
-mand=》order（command）
+mand=>order（command）
 mandatory 命令的，强制的
 mandate 命令
 remand 押回
@@ -78,11 +77,11 @@ imperative 必须的   emperor 皇帝
 ------------------------------------------------
 知识点42  M字母开头的单词   maniacal-metamorphose
 
-mania=》疯狂  mad
+mania=>疯狂  mad
 maniacal 发狂的，疯狂的
 
 pyromania 纵火狂
-dip=》蘸一下
+dip=>蘸一下
 dipsomania 嗜酒狂   
 megalomania 自大狂
 kleptomania 盗窃癖  kept
@@ -107,8 +106,8 @@ gaudy 华而不实的    奥迪
 tawdry 华丽而庸俗的
 meritorious 值得赞扬的
 ------------------------------------------------
-morph=》form
-meta=》change
+morph=>form
+meta=>change
 metamorphose 变形，变质 
 
 metaphor 比喻
@@ -126,17 +125,17 @@ discreet 谨慎的
 prudent 谨慎的
 provident 谨慎的，有远见的
 ------------------------------------------------
-mater/matr=》mother
+mater/matr=>mother
 metropolitan 首都的，主要都市的
 metropolis 大都市
 
-mater/matr=》mother
+mater/matr=>mother
 maternal 母系的
 maternity 产妇的
 matriarchy 母系社会
 sorority 姐妹会
 
-pater/patr=》father
+pater/patr=>father
 paternal 父系的
 patron 常客，老主顾
 patriotism 爱国主义
@@ -144,11 +143,11 @@ expatriate  驱逐
 repatriate 遣返
 compatriot 同胞
 
-frater/fratr=》brother
+frater/fratr=>brother
 fraternal 兄弟般的
 fraternity 兄弟会，兄弟情
 ------------------------------------------------
-migr=》move
+migr=>move
 migratory 迁徙的，流浪的
 immigrate 移民
 emigrate 移民
@@ -157,7 +156,7 @@ transmigration 轮回，迁徙
 émigré 流亡
 nomadic 游牧的  settled 定居的
 ------------------------------------------------
-mis=》mistake，hate
+mis=>mistake，hate
 misgiving 疑惧，疑虑
 mischievous 淘气的  mischief 恶作剧
 misanthrope 厌世者
@@ -167,7 +166,7 @@ misinform 误传，提供错误消息
 ------------------------------------------------
 知识点44  M字母开头的单词   modish-mutate
 
-mode=》方法，样式
+mode=>方法，样式
 modish 流行的，时髦的
 mode 样式
 modern 现代
@@ -181,7 +180,7 @@ moderate 适度的；减轻
 monarch 君主
 matriarchy 母系社会
 ------------------------------------------------
-gam=》marriage
+gam=>marriage
 monogamy 一夫一妻制
 polygamy 一夫多妻制
 polyandry 一妻多夫制
@@ -190,7 +189,7 @@ misogamy 厌恶结婚
 ------------------------------------------------
 monopoly 垄断
 ------------------------------------------------
-mort=》death
+mort=>death
 moribund 垂死的，即将结束的
 inchoate 早期
 jocund 愉快的
@@ -212,7 +211,7 @@ worldly 世俗的，人间的
 earthly 世俗的，人间的
 subcelestial 人间的
 ------------------------------------------------
-mut=》change
+mut=>change
 mutate 变异，突变
 mute 静音；沉默寡言的
 commute 交互；上下班通勤；减刑
@@ -229,7 +228,7 @@ debase 减低
 demean 意思的下降
 degrade 级别的下降
 ------------------------------------------------
-nas/nat=》born nature
+nas/nat=>born nature
 nascent 初生的
 -escent 渐渐 
 形容词后缀
@@ -242,7 +241,7 @@ neonate 婴儿
 renaissance 复兴
 natal 出生的、诞生的
 ------------------------------------------------
-nau/nav=》ship
+nau/nav=>ship
 nautical 船员的，航海的
 navy 航海
 nausea 晕船
@@ -256,7 +255,7 @@ abnegate 否定、放弃
 renege 食言
 renegade 叛变
 ------------------------------------------------
-nex/nect=》join
+nex/nect=>join
 nexus 连结，联系
 annex 吞并
 merge 合并
@@ -273,7 +272,7 @@ phlegmatic 冷淡的
 ------------------------------------------------
 知识点46  N字母开头的单词   nondescript-numb
 
-script/scribe=》write
+script/scribe=>write
 nondescript 无可名状的，难以区别的，无特征的
 script 脚本
 scribe 隶
@@ -281,7 +280,7 @@ subscribe 订阅，捐赠
 ascribe 归因于
 inscribe 题字
 transcribe 抄写
-prescribe 开处方，规定
+prescribe 开处方
 proscribe 禁止
 circumscribe 限制，外接
-conscript 征兵，应征入伍者
+conscript 征兵
