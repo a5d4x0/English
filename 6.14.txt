@@ -25,9 +25,9 @@ clement 宽厚的
 lenient 宽厚的
 relent 宽厚 re+lent
 relentless 冷酷无情的
-callous 无情
+callous 无情的
 ------------------------------------------------
-lethe   ‘立死’ 忘川河
+lethe 忘却，忘川河 ‘立死’
 lethargic 昏睡的，瞌睡的
 lethargy 昏睡
 lethal 致命的

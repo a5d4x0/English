@@ -206,7 +206,7 @@ laconic 简洁的，简明的
 pithy 简练的 
 concise 简洁的
 curt 简短的
-terse 简洁的 文字  terse text
+terse 简洁的  terse text  简洁的文字
 succinct 简洁的 succeed 成功
 ------------------------------------------------
 verbose 冗长的

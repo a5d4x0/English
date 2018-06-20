@@ -3,14 +3,14 @@ nonplus 使困惑
 
 surplus 盈余
 
-nonconformist  不顺从一般公认信念习惯的
-nonsuch 无与伦比的
+nonconformist  不墨守成规的
+nonsuch 无与伦比的事物
 nonpareil 无与伦比的    compare 比较
 nonentity 不重要的人或事  entire 整个
 
-mystify 困惑
-confound 困惑
-confuse 困惑
+mystify 使困惑
+confound 使困惑
+confuse 使困惑
 ------------------------------------------------
 nov=》new
 novice 新手，初学者
@@ -22,8 +22,7 @@ tyro 新手
 rookie 新秀
 
 veteran 老手
-inveterate 根深蒂固的
-smoker 抽烟者
+inveterate 根深蒂固的   smoker 抽烟者
 ------------------------------------------------
 nox/noc=》harm
 noxious 有害的
@@ -36,8 +35,7 @@ noisome 有害的；令人讨厌的；恶臭的    noisy
 pernicious 有害的
 internecine 自相残杀的
 ------------------------------------------------
-numb 
-情感，肢体麻木的   number 数字
+numb 情感，肢体麻木的   number 数字
 dumb 愚蠢的，哑巴的
 dumbfound 使惊呆
 anesthetic 麻醉的
@@ -80,7 +78,7 @@ pedestrian 行人
 demonstration 示范
 
 capricious 任性的
-caprice 任性的
+caprice 任性
 rowdy 吵闹的    row 行；争吵
 clamorous 吵闹的    claim 声称
 ------------------------------------------------
@@ -98,8 +96,7 @@ opportunity 机会
 
 ortho=》right
 dox=》opinion
-orthodox 
-思想正统的，传统的
+orthodox 思想正统的，传统的
 conventional 传统的
 
 orthodontics  畸齿矫正学    dentist
@@ -144,9 +141,9 @@ overhaul 翻修
 
 pet=》to seek
 petition (对于统治者)请愿，请愿书
-centripetal 向心的
-force 力
+centripetal 向心的  force 力
 propitiate 抚慰，和解
+
 entreat 恳求
 plead 恳求
 beseech 恳求
@@ -169,7 +166,7 @@ pedophile 恋童癖
 ------------------------------------------------
 pine 松树；消瘦，憔悴，渴望
 pineapple 菠萝
-pine to death 
+pine to death 憔悴致死
 pine for
 gaunt 憔悴
 languish 憔悴
@@ -211,7 +208,7 @@ maneuvre 操纵
 employ 应用
 plot 剧情，阴谋
 ------------------------------------------------
-precipitate 急剧下降，加速
+precipitate 急剧下降，加速，沉淀
 precipice 悬崖
 precipitous 陡峭的
 precipitation 降水量；轻率
@@ -219,9 +216,11 @@ imprudence 轻率
 ------------------------------------------------
 coc/coct=》cook
 precocious 早熟的
+
 premature 过早
+
 concoct 炮制
-concoction 药汁
+concoction 药汁，混合物
 fabricate 制作
 ------------------------------------------------
 dict/dic=》to speak
@@ -255,208 +254,3 @@ domain 领域
 domicile 家庭住所
 domesticate 驯养
 domineering 霸气的
-------------------------------------------------
-monit=》to warn
-premonition 前兆，预感
-admonish 警告
-summon 传唤
-foreboding 不详的预感
-presentiment 预感
-------------------------------------------------
-sumpt/sume=》to take
-presumptuous 专横的，放肆无礼的
-assume 假设
-responsibility 责任
-conceited 自负
-------------------------------------------------
-prodigal
-prodigy 奇才
-prodigious 巨大的
-prodigal 浪子
-------------------------------------------------
-proliferate
-nuclear 核
-prolific 多产的
-multiply 乘
-------------------------------------------------
-prolix
-laconic 简洁的
-garrulous 贫嘴
-------------------------------------------------
-propagation
-propaganda 宣传
-propagate 传播
-promulgate 公布
-irrigate 浇水
-subjugate 征服
-expurgate 删除
-mitigate 减排
-castigate 鞭挞
-instigate 煽动
-profligate 肆意挥霍的
-------------------------------------------------
-知识点52  P字母开头的单词   propensity-punctilious
-
-propensity
-impend 逼近
-append 附加
-suspend 暂停
-pensive 郁郁不乐
-recompense 赔偿
-ponder 思考
-ponderous 沉重的
-preponderant:优势
-------------------------------------------------
-proscribe 
-prescribe:规定
-nondescript:不伦不类
-interdict 禁令
-prohibit 禁止
-taboo 禁忌
-ban 禁止
-exhibit 布展
-inhibit 抑制
-------------------------------------------------
-pseudonym
-pseudoscience 伪科学
-pseudomyopia 假性近视
-anonymous 匿名
-nominate 提名
-denominate 呼
-ignominy 耻辱
-------------------------------------------------
-pugnacious
-repugnant 令人反感的
-impugn 抨击
-impunity 有罪不罚的现象
-------------------------------------------------
-puissance
-clout 影响力
-cloud 云
-------------------------------------------------
-punctilious
-circumspect 周到
-discreet 谨慎
-prudent 谨慎
-meticulous 细致
-puncture 穿刺
-compunction 内疚
-pungent 刺鼻的
-expunge ，抹去
-poignant 凄美的
-expurgate 删去
-------------------------------------------------
-知识点53  Q字母开头的单词   quail-quisling
-
-quail
-quell 平息
-subjugate 征服
-quiet 安静
-squelch 静噪
-------------------------------------------------
-qualm
-misgiving 疑虑
-quail 鹌鹑
-calm 平静
-------------------------------------------------
-quaver
-quiver 颤抖
-shiver 哆嗦
-shake 震动
-shudder 不寒而栗
-shoulder 肩
-quake 地震
-------------------------------------------------
-querulous 发牢骚的
-------------------------------------------------
-quirk
-queer 奇怪的
-outlandish 古怪的
-eccentric 偏心
-bizarre 离奇
-bazaar 集市
-quaint 古雅
-------------------------------------------------
-quisling
-traitor 叛徒
-apostate 叛教者
-renegade 叛徒
-------------------------------------------------
-知识点54  R字母开头的单词   rally-ratiocination
-
-rally
-ally 盟友
-------------------------------------------------
-rampage
-ramp 斜坡
-rampant 横行
-------------------------------------------------
-rankle
-infuriate 激怒
-provoke 挑拨
-irritate 刺激；激怒
-incense 使发怒
-exasperate 激怒
-exacerbate 加剧
-incentive 刺激
-------------------------------------------------
-rankle
-rancor 仇恨
-rant 咆哮
-goodwill 善意
-------------------------------------------------
-rapacious
-rap-/rav- 抢夺
-rapture 狂喜
-rapt 全神贯注的
-ravish 强夺
-rapid 快速
-rape 强奸
-ravage 肆虐
-ravenous 贪婪的
-bereave 使失去
-bereft 丧失
-------------------------------------------------
-ratiocination
-rational 理性的
-ratify 批准
-ration 比
-------------------------------------------------
-知识点55  R字母开头的单词   ravel-redundant
-
-ravel
-rival 对手
-tangle 纠结
-unravel 译
-------------------------------------------------
-rebuff
-repudiate 否定
-impudent 厚颜无耻的
-buffet 早餐
-decline 下降
-------------------------------------------------
-recalcitrant
-recall 记得
-rebellious 叛逆
-rebel 反叛
-unruly 不羁
-rude 粗鲁的
-------------------------------------------------
-reciprocate
-reciprocity 互惠
-reciprocal 倒数
-retaliate 报复)
-------------------------------------------------
-recompense
-compensate 补偿
-------------------------------------------------
-recuperate 复原；康复 
-convalesce 痊愈
-recoup 恢复
-------------------------------------------------
-redoubtable
-formidable 强大
-awesome 真棒
-------------------------------------------------
-redundant
-abundant 丰富
