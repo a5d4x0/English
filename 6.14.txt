@@ -125,7 +125,6 @@ discreet 谨慎的
 prudent 谨慎的
 provident 谨慎的，有远见的
 ------------------------------------------------
-mater/matr=>mother
 metropolitan 首都的，主要都市的
 metropolis 大都市
 
@@ -171,8 +170,7 @@ modish 流行的，时髦的
 mode 样式
 modern 现代
 model 模型
-moderate 中度
-outmoded 过时
+outmoded 过时的
 modulate 调整（声音）
 modest 谦虚的，适当的
 moderate 适度的；减轻
@@ -191,7 +189,7 @@ monopoly 垄断
 ------------------------------------------------
 mort=>death
 moribund 垂死的，即将结束的
-inchoate 早期
+inchoate 早期的
 jocund 愉快的
 immortal 不朽的
 morbid 病态的  ‘毛病的’
@@ -199,7 +197,7 @@ mortality 死亡率
 mortuary 停尸间
 postmortem 尸检
 autopsy 尸检
-mortify 使蒙羞
+mortify 使蒙羞，抑制
 ------------------------------------------------
 mote 尘埃，微粒
 mite 一点，螨
@@ -225,17 +223,14 @@ narcissism 自恋的
 self-abasement 自卑
 abase 降低、贬低
 debase 减低
-demean 意思的下降
-degrade 级别的下降
+demean 意思的下降， 贬低...的身份
+degrade 级别的下降，贬低
 ------------------------------------------------
 nas/nat=>born nature
 nascent 初生的
--escent 渐渐 
-形容词后缀
--escence 渐渐 
-名词后缀
--esce 渐渐 
-动词后缀
+-escent 渐渐 形容词后缀
+-escence 渐渐 名词后缀
+-esce 渐渐 动词后缀
 innate=inborn 天生的
 neonate 婴儿
 renaissance 复兴
@@ -266,7 +261,7 @@ adjourn 休会
 noctilucent 夜光的
 equinox 春秋分
 ------------------------------------------------
-nonchalance 冷淡的
+nonchalance 冷淡
 calorie 热量
 phlegmatic 冷淡的
 ------------------------------------------------
@@ -275,7 +270,7 @@ phlegmatic 冷淡的
 script/scribe=>write
 nondescript 无可名状的，难以区别的，无特征的
 script 脚本
-scribe 隶
+scribe 抄写员
 subscribe 订阅，捐赠
 ascribe 归因于
 inscribe 题字
