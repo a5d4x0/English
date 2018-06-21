@@ -3,14 +3,14 @@ nonplus 使困惑
 
 surplus 盈余
 
-nonconformist  不顺从一般公认信念习惯的
-nonsuch 无与伦比的
+nonconformist  不墨守成规的
+nonsuch 无与伦比的事物
 nonpareil 无与伦比的    compare 比较
 nonentity 不重要的人或事  entire 整个
 
-mystify 困惑
-confound 困惑
-confuse 困惑
+mystify 使困惑
+confound 使困惑
+confuse 使困惑
 ------------------------------------------------
 nov=》new
 novice 新手，初学者
@@ -22,8 +22,7 @@ tyro 新手
 rookie 新秀
 
 veteran 老手
-inveterate 根深蒂固的
-smoker 抽烟者
+inveterate 根深蒂固的   smoker 抽烟者
 ------------------------------------------------
 nox/noc=》harm
 noxious 有害的
@@ -36,8 +35,7 @@ noisome 有害的；令人讨厌的；恶臭的    noisy
 pernicious 有害的
 internecine 自相残杀的
 ------------------------------------------------
-numb 
-情感，肢体麻木的   number 数字
+numb 情感，肢体麻木的   number 数字
 dumb 愚蠢的，哑巴的
 dumbfound 使惊呆
 anesthetic 麻醉的
@@ -80,7 +78,7 @@ pedestrian 行人
 demonstration 示范
 
 capricious 任性的
-caprice 任性的
+caprice 任性
 rowdy 吵闹的    row 行；争吵
 clamorous 吵闹的    claim 声称
 ------------------------------------------------
@@ -98,8 +96,7 @@ opportunity 机会
 
 ortho=》right
 dox=》opinion
-orthodox 
-思想正统的，传统的
+orthodox 思想正统的，传统的
 conventional 传统的
 
 orthodontics  畸齿矫正学    dentist
@@ -144,9 +141,9 @@ overhaul 翻修
 
 pet=》to seek
 petition (对于统治者)请愿，请愿书
-centripetal 向心的
-force 力
+centripetal 向心的  force 力
 propitiate 抚慰，和解
+
 entreat 恳求
 plead 恳求
 beseech 恳求
@@ -169,7 +166,7 @@ pedophile 恋童癖
 ------------------------------------------------
 pine 松树；消瘦，憔悴，渴望
 pineapple 菠萝
-pine to death 
+pine to death 憔悴致死
 pine for
 gaunt 憔悴
 languish 憔悴
@@ -211,7 +208,7 @@ maneuvre 操纵
 employ 应用
 plot 剧情，阴谋
 ------------------------------------------------
-precipitate 急剧下降，加速
+precipitate 急剧下降，加速，沉淀
 precipice 悬崖
 precipitous 陡峭的
 precipitation 降水量；轻率
@@ -219,9 +216,11 @@ imprudence 轻率
 ------------------------------------------------
 coc/coct=》cook
 precocious 早熟的
+
 premature 过早
+
 concoct 炮制
-concoction 药汁
+concoction 药汁，混合物
 fabricate 制作
 ------------------------------------------------
 dict/dic=》to speak
@@ -255,200 +254,3 @@ domain 领域
 domicile 家庭住所
 domesticate 驯养
 domineering 霸气的
-------------------------------------------------
-monit=》to warn
-premonition 前兆，预感
-admonish 警告
-summon 传唤
-foreboding 不详的预感
-presentiment 预感
-------------------------------------------------
-sumpt/sume=》to take
-presumptuous 专横的，放肆无礼的
-assume 假设
-responsibility 责任
-conceited 自负的
-------------------------------------------------
-prodigal 浪费的  be prodigal with
-prodigy 奇才
-prodigious 惊人的，巨大的
-天才造成巨大的浪费
-------------------------------------------------
-proliferate 激增，繁殖 life
-nuclear proliferation 核扩散
-prolific 多产的
-multiply 乘，激增
-------------------------------------------------
-prolix 冗长的 liquid
-laconic 简洁的
-garrulous 贫嘴的
-------------------------------------------------
-propagation 繁殖，传播
-propaganda 宣传
-propagate 繁殖 pig 门前有猪
-promulgate 宣传 mul 门前有驴
-irrigate 浇水 irri 门前有花
-subjugate 镇压  gate 压在门下
-expurgate 删除  清洁大门是删除
-mitigate 减轻 mit 送到门前是减轻
-castigate 惩罚  扔掉门口
-instigate 煽动  站在门内是煽动
-profligate 肆意挥霍的 飞到门前去挥霍
-------------------------------------------------
-知识点52  P字母开头的单词   propensity-punctilious
-
-pens/pend=》weight，cost，hang
-propensity 倾向
-impend 逼近 impending war
-append 附加
-suspend 暂停，悬挂
-pensive 郁郁不乐的
-recompense 补偿 
-ponder 思考
-ponderous 沉重的
-preponderant:占优势的
-------------------------------------------------
-proscribe 禁止
-prescribe:规定
-nondescript:不可名状
-interdict 禁令
-prohibit 禁止
-taboo 禁止
-ban 禁止
-exhibit 展览
-inhibit 抑制
-------------------------------------------------
-nym/nom=》name
-ps=〉假
-pseudonym 假名，笔名
-pseudoscience 伪科学
-pseudomyopia 假性近视
-anonymous 匿名的
-nominate 提名
-denominate 命名
-ignominy 耻辱
-------------------------------------------------
-pugn=》fight
-pugnacious 好斗的
-repugnant 敌对的，令人反感的
-impugn 抨击
-impunity 有罪不罚的现象
-------------------------------------------------
-puissance 权利，权势 power
-clout 权利 cloud 云
-------------------------------------------------
-punc=》刺 pin
-punctilious 谨慎的
-discreet 谨慎
-prudent 谨慎
-meticulous 细致
-puncture 刺破
-compunction 内疚
-pungent 刺激的，辛辣的
-expunge 删除  expurgate 删除
-poignant 评论辛辣的 point
-------------------------------------------------
-知识点53  Q字母开头的单词   quail-quisling
-
-quail 畏缩，害怕
-quell 平息，镇压
-subjugate 镇压
-quiet 安静
-squelch 镇压
-------------------------------------------------
-qualm 疑虑
-misgiving 疑虑
-calm 平静
-------------------------------------------------
-quaver （连续性）颤抖
-quiver 颤抖
-shiver 哆嗦
-shake 震动  quake 地震
-shudder 不寒而栗  shoulder 肩
-------------------------------------------------
-querulous 发牢骚的
-------------------------------------------------
-quirk 怪癖
-queer 奇怪的
-outlandish 古怪的
-eccentric 古怪的
-bizarre 奇怪的 bazaar 集市
-quaint 奇怪的，古香古色的
-------------------------------------------------
-quisling 卖国贼
-traitor 叛徒
-apostate 叛教者
-renegade 叛徒
-------------------------------------------------
-知识点54  R字母开头的单词   rally-ratiocination
-
-rally 集会，集合
-ally 联盟
-------------------------------------------------
-rampage 乱闹，暴跳
-ramp 斜坡
-rampant 猖獗的
-------------------------------------------------
-rankle 激怒
-infuriate 激怒
-provoke 激怒
-irritate 激怒
-incense 激怒  incentive 刺激
-exasperate 激怒，恶化  exacerbate 恶化
-
-rankle
-rancor 恼怒，仇恨  goodwill 善意
-rant 咆哮
-------------------------------------------------
-rap-/rav- 抢夺，吸引  rape 强奸 rapid 快速的
-rapacious 贪财的，贪财的
-rapture 入迷
-rapt 全神贯注的
-ravish 抢夺，强奸，使着迷
-ravage 抢夺，破坏
-ravenous 贪婪的
-bereave 使剥夺，使失去（亲戚）
-bereft 失去的
-------------------------------------------------
-rat=》reason
-ratiocination 推理，推论
-rational 推理的
-ratify 批准 rightify
-ration 配给，数量
-------------------------------------------------
-知识点55  R字母开头的单词   ravel-redundant
-
-ravel 使纠缠，使混乱；散开（织物）
-rival 对手
-tangle 纠结
-unravel 解开，阐明
-------------------------------------------------
-rebuff 回绝，拒绝  re+buffet 自助餐
-repudiate 否定
-impudent 厚颜无耻的
-
-decline 婉言谢绝，下降
-------------------------------------------------
-recalcitrant 反抗的，反对的  against+call
-rebellious 叛逆的  rebel 反叛
-unruly 难以管束的  rude 粗鲁的
-------------------------------------------------
-reciprocate 酬谢，报答
-reciprocity 互惠互利
-reciprocal 互惠的，倒数
-
-retaliate 报复
-------------------------------------------------
-recompense 补偿
-compensate 补偿
-------------------------------------------------
-recuperate 复原；康复 recover
-convalesce 康复
-recoup 恢复
-------------------------------------------------
-redoubtable  可怕的，令人敬畏的   re+doubt不敢怀疑
-formidable 可怕的  fear
-awesome 真棒；令人敬畏的
-------------------------------------------------
-redundant 冗长的
-abundant 丰富的
