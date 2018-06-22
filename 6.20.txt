@@ -6,20 +6,21 @@ impend 逼近 impending war
 append 附加
 suspend 暂停，悬挂
 pensive 郁郁不乐的
-recompense 补偿 
+recompense 赔偿 
 ponder 思考
 ponderous 沉重的
-preponderant:占优势的
+preponderant 占优势的
 ------------------------------------------------
 proscribe 禁止
-prescribe:规定
-nondescript:不可名状
+
+prescribe 规定
+nondescript 不可名状
+
 interdict 禁令
 prohibit 禁止
 taboo 禁止
 ban 禁止
-exhibit 展览
-inhibit 抑制
+inhibit 抑制    exhibit 展览
 ------------------------------------------------
 nym/nom=》name
 ps=〉假
@@ -38,13 +39,13 @@ impugn 抨击
 impunity 有罪不罚的现象
 ------------------------------------------------
 puissance 权利，权势 power
-clout 权利 cloud 云
+clout 权势 cloud 云
 ------------------------------------------------
 punc=》刺 pin
 punctilious 谨慎的
-discreet 谨慎
-prudent 谨慎
-meticulous 细致
+discreet 谨慎的
+prudent 谨慎的
+meticulous 谨慎的
 puncture 刺破
 compunction 内疚
 pungent 刺激的，辛辣的
