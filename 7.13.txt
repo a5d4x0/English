@@ -277,58 +277,58 @@ devoid 没有的
 
 wanderlust 旅行癖
 ------------------------------------------------
-wastrel
-spendthrift 败家子
-dissipate 消散
+wastrel 废物，挥霍无度的人
+spendthrift 挥霍无度的人
+dissipate 浪费，驱散
 squander 浪费
-fritter 挥霍的人
+fritter 浪费
 ------------------------------------------------
-warrant
-warranty 保修
+warrant 授权，保证（书）
+warranty 保修单
 guarantee 保证
 arrest 逮捕
-warrant 值得
 ------------------------------------------------
-whelm
+whelm 淹没
 overwhelm 压倒
 consensus 共识
 submerge 淹没
 emerge 出现
-immerge 侵入
-immerse 浸泡
+immerge 浸入
+immerse 沉浸
 merge 合并
 ------------------------------------------------
-wile
+wile 诡计，阴谋，欺骗
 wily 狡猾的
 crafty 狡猾的
-artful 巧妙的
+artful 狡猾的
 ------------------------------------------------
-withdraw
-withstand 耐压
+withdraw 收回撤销
+withstand 禁得起
 withhold 隐瞒
 ------------------------------------------------
 知识点70  X、Y、Z字母开头的单词   xenophobia-zenith
 
-xenophobia
-foreign 外资
-xenophile 崇洋
+xeno=>foreign
+xenophobia 仇外，惧外
+xenophile 崇洋的人
 ------------------------------------------------
-yoke 束缚
+yoke 束缚，支配
 yolk 蛋黄
 ------------------------------------------------
-yeast
+yeast 酵母，激动
 feast 盛宴
-ferment 发酵
+ferment 发酵；骚乱
 foment 煽动
 ------------------------------------------------
-zeal
+zeal 热心，热情
 zealous 热情的
 zealot 狂热者
-jealous 嫉妒
+jealous 嫉妒的
+zest 热情；风味
 ------------------------------------------------
-zenith
-acme 极致
+zenith 顶点，顶峰，天顶 zeus
+acme  顶点
 crest 波峰
 apex 顶点
-culmination 高潮
+culmination 顶点；高潮
 nadir 最低点
