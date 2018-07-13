@@ -16,7 +16,7 @@ gress=>to go
 regress 倒退
 digress 离题
 transgress 逾越，违反
-egress 出去
+egress 外出
 ingress 进入
 ------------------------------------------------
 rehabilitate 恢复健康，恢复名誉，官复原职
@@ -27,7 +27,7 @@ relegate 转移，移交；降级，贬谪
 delegate 代表
 
 eligible 合适的，胜任的
-eclectic 博采众长的，折中的
+eclectic 博采众长的，折衷的
 ------------------------------------------------
 reminisce 回忆，想起    reminisce about
 remind 想起
@@ -60,7 +60,7 @@ revolt 反抗，起义，反叛
 rebel 反叛
 revolve 旋转
 convolute 盘旋
-devolve 传下
+devolve 转移；移交
 evolve 演变 evolution
 voluble 健谈的
 recalcitrant 反抗的
@@ -74,7 +74,7 @@ rotate 旋转
 rote 死记硬背
 cram 死记硬背
 rotating 旋转,轮流
-revolve 围绕
+revolve 旋转
 ------------------------------------------------
 知识点58  S字母开头的单词   sage-sanguine
 
@@ -83,14 +83,14 @@ sage 贤明的，明智的，审慎的；贤人，圣人
 saga 传奇
 sagacious 睿智的
 presage 预示
-sapient 贤明的
+sapient 聪明的
 
 sci=>know
 conscience 良心
 conscientious 认真的
 
 gno=>know
-ignore 忽略
+ignore 忽视；不理睬
 recognize 认出
 cognizant 认知的
 cognition 认知
@@ -101,8 +101,8 @@ pious 虔诚的    piety 虔诚  bias
 
 sanct/sacro=>holy
 secret 秘密
-sanctimony 假装虔诚
-sanctuary 保护区域，神殿    shrine 神殿
+sanctimony 假装的虔诚
+sanctuary 避难所，保护区域；神殿    shrine 神殿
 sanction 制裁；授权
 sacrosanct 神圣的
 consecrate 把···奉为神圣；奉献
@@ -118,10 +118,10 @@ sallow 蜡黄的   sorrow
 
 sap 树液，体力，活力；削弱，消耗
 vitality 活力
-sag 削弱
+sag 松弛；下跌
 fortify 增强
 force 力
-bolster 加强
+bolster 支持
 sapid 味道好的
 insipid 平淡无味的
 ------------------------------------------------
@@ -140,8 +140,7 @@ scramble 攀爬
 crafty 狡猾的
 creep 爬行
 cryptic 神秘的
-------------------------------------------------
-scroll 卷轴
+
 roller coaster 过山车
 ------------------------------------------------
 sed=>sit
@@ -172,7 +171,7 @@ sequestrate 扣押，没收（债务人的财产）
 sequester 隔离
 forfeit 没收物，罚金
 confiscate 没收
-fiscal 财政
+fiscal 财政的
 ------------------------------------------------
 sloppy 邋遢的，不整洁的，不修边幅的
 kempt 整洁的
@@ -195,14 +194,14 @@ complacent 自满的
 elated 兴高采烈的
 ------------------------------------------------
 snub 冷落，怠慢，不理睬
-snob 势利
+snob 势利小人
 snobbish 势利的
 noble 高贵的
 ------------------------------------------------
 sol=>alone
 solidarity 团结
 console 控制台
-conciliate 调解
+conciliate 调解，安慰
 solace 安慰
 inconsolable 伤心欲绝的
 disconsolate 郁闷的，孤独的
@@ -272,14 +271,12 @@ clash 冲突
 crash 崩溃
 smash 粉碎
 mash 捣烂
-squash 镇压
-quash 镇压
-stash 隐藏
+stash 贮藏
 slash 削减
 abash 使困窘；使羞愧
 ------------------------------------------------
 statute 法令，条例
-stature 地位
+stature 地位；身高，身材
 state 状态
 prestige 声望
 ------------------------------------------------
@@ -291,13 +288,347 @@ stagnant 停滞的
 stasis 停滞
 stance 立场
 ------------------------------------------------
-stint 紧缩节省；吝啬的
+stint 紧缩，节省
 stingy 吝啬的
 stink 臭味
 ------------------------------------------------
 stray 迷路，偏离，漂泊；迷路的，漂泊的
 street 街道
-astray 走失
+astray 迷路的
 ------------------------------------------------
 strive v.努力,奋斗
 ------------------------------------------------
+知识点63  S字母开头的单词   subvention-synchronous
+
+vent=>to come
+subvention 补助金
+subsidy 补贴
+advent 到来，出现
+circumvent 规避
+convene 召集
+contravene 违反
+intervene 干涉
+revenue 收入
+------------------------------------------------
+kickback 回扣
+bounty 赏金
+commission 佣金，委员会
+alimony 赡养费
+ailment 小病
+aliment 滋养品
+premium 保险费
+dividend 股息，红利
+------------------------------------------------
+sully （名誉）玷污  soil
+sullen 闷闷不乐的
+------------------------------------------------
+swagger 昂首阔步走
+stagger 蹒跚
+overwhelming 压倒一切的
+
+strut 昂首阔步走
+street 街道
+------------------------------------------------
+sway 摇摆
+swing 摆动
+waver 摇摆
+dangle 悬荡
+------------------------------------------------
+swelter 汗流浃背，闷热
+sweat 汗
+sultry 闷热的
+------------------------------------------------
+syn/sym=>same
+chron=>time
+synchronous 同时的
+symmetry 对称
+synchronize 同步
+chronic 慢性的
+acute 急性的
+chronological 按时间顺序的
+spatial 空间的
+chronometer 时表
+chronology 年代学
+simultaneous 同时的
+------------------------------------------------
+知识点64  T字母开头的单词   taciturn-totter
+
+tac=>silent
+taciturn 沉默寡言的
+tacit 心照不宣的
+reticent 沉默寡言的
+withdrawn 沉默寡言的
+reserved 保留的；矜持的
+------------------------------------------------
+tantalize 逗弄，挑逗
+tantrum 发脾气
+------------------------------------------------
+tantamount 与···相等的
+commensurate 相称的
+------------------------------------------------
+taut 拉紧的
+    tight 紧张
+tout 拉客
+slack 松的
+lax 松的
+------------------------------------------------
+tepid 温和的
+temperature 温度
+trepid 胆小的
+tremble 颤抖的
+torpid 行动迟缓的
+torrid 炎热的
+------------------------------------------------
+theo=>god
+theocracy 神权政治
+cracy=>government
+atheist 无神论者
+pantheon 万神殿
+pandemonium 万魔殿
+
+democracy 民主
+autocracy 专制
+plutocracy 富豪统治
+aristocracy 贵族政体
+bureaucracy 官僚主义
+------------------------------------------------
+therm=>heat
+thermal 热的，热量的
+thermometer 温度计
+geothermic 地热的
+thermostat 自动调温器
+------------------------------------------------
+tort=>twist
+totter 蹒跚，踉跄
+stagger 蹒跚
+stumble 蹒跚
+
+extort 敲诈
+retort 反驳
+contort 扭曲
+distort 扭曲
+torment 折磨
+torture 酷刑，拷打
+torturous 痛苦的
+tortuous 扭曲的
+------------------------------------------------
+知识点65  T字母开头的单词   trait-turbulent
+
+trait 个性特点
+------------------------------------------------
+treacherous 背信弃义的
+betray 背叛
+traitor 叛徒
+treason 叛逆
+------------------------------------------------
+trespass 侵犯，非法闯入
+encroach 侵犯，蚕食
+approach 方法
+infringe 侵犯
+------------------------------------------------
+tribulation （大的）苦难，忧患，磨难
+contribute 贡献
+distribute 分发
+tribute=>to give
+retribution 报应
+tribute 礼物；赞颂
+------------------------------------------------
+trophy 战利品，奖品
+loot 战利品；洗劫
+triumph 胜利
+troph=>nutrition
+atrophy 萎缩;衰退
+------------------------------------------------
+
+tumultuous 喧嚣的
+tumult 骚乱
+------------------------------------------------
+turb=>stir 搅
+turbulent 狂暴的，吵闹的，骚乱的
+turmoil 混乱
+perturb 扰动
+turpitude 卑鄙
+turbid 浑浊的
+limpid 清澈的
+------------------------------------------------
+知识点66  U字母开头的单词   ubiquitous-utter
+
+ubiquitous 无处不在的   unique
+------------------------------------------------
+unc=>oil
+unctuous 油似的，油嘴滑舌的
+unguent 油腻的
+greasy 油腻的
+lubricant 润滑油
+------------------------------------------------
+underdog 失败者，受压迫者
+bully 仗势欺人者
+
+underline 强调
+understate 轻描淡写
+underscore 下划线；强调
+underrate 低估
+underhanded 卑劣的，人手不足的
+------------------------------------------------
+upbraid 责备
+reprove 责备
+reproach 责备
+reprehend 责备
+reprimand 谴责
+rebuke 责备
+inveigh 痛骂，猛烈抨击
+invective 谩骂的
+fulminate 爆炸，谴责
+------------------------------------------------
+usurp 篡位
+abdicate 退位
+usury 高利贷
+------------------------------------------------
+utter 全然的，绝对的；发出声音，说话
+utterly 彻底地
+utterance 说话
+unutterable 难言的
+ineffable 不应说出的
+------------------------------------------------
+知识点67  V字母开头的单词   vacillate-vagrancy
+
+vac=>empty  vanish
+vacillate 犹豫不定 vac+will
+evacuate 撤离
+vacuous 空虚的
+vanity 虚荣心
+vain 徒劳的
+vainglorious 虚荣的
+evanescent 转瞬即逝的
+------------------------------------------------
+vag=>wander
+vagrancy （说话/思想）游移不定，漂泊，流浪
+vague 模糊的
+vogue 时尚的
+vagary 妄想，奇思妙想
+extravagant 奢侈的
+------------------------------------------------
+
+知识点68  V字母开头的单词   valiant-void
+
+val=>strong
+valiant 勇敢的
+chivalry 骑士精神
+gallant 勇敢的
+------------------------------------------------
+vapid 索然无味的
+vapor 蒸汽
+evaporate 蒸发
+------------------------------------------------
+varnish 清漆；上漆
+vanish 消失
+garnish 装饰
+------------------------------------------------
+venom （蛇/动物）毒液
+poisonous 有毒的
+
+tox=>poison
+toxic 有毒的
+vindictive 怀恨在心的
+
+antitoxin 抗毒素
+detoxify 解毒
+intoxicate 使陶醉
+------------------------------------------------
+verb=>word
+verbal 口头的
+verbose 话多的
+verboten 禁止的
+proverb 谚语，格言
+------------------------------------------------
+via/voy=>way
+viability 生存能力
+viable 可行的
+feasible 可行的
+
+deviation 偏离
+deviant 背离常轨的
+devious 迂回曲折的
+pervious 可渗透的
+trivia 琐事
+convey 运送，传递
+convoy 护航
+------------------------------------------------
+veg/vig=>lively
+vigilant 警惕着的，警醒的
+vigor 活力
+invigorate 使有活力
+vigilante 义务警员
+vegetate 单调的生活
+------------------------------------------------
+vir=>man
+virtuoso 演艺精湛的人
+virtue 美德
+virginity 贞操
+virile  阳刚的
+virago 泼妇
+virtuosity 精湛的技艺
+------------------------------------------------
+vo=>空的
+void 空的，无效的
+devoid 没有的
+------------------------------------------------
+知识点69  W字母开头的单词   wanderlust-withdraw
+
+wanderlust 旅行癖
+------------------------------------------------
+wastrel 废物，挥霍无度的人
+spendthrift 挥霍无度的人
+dissipate 浪费，驱散
+squander 浪费
+fritter 浪费
+------------------------------------------------
+warrant 授权，保证（书）
+warranty 保修单
+guarantee 保证
+arrest 逮捕
+------------------------------------------------
+whelm 淹没
+overwhelm 压倒
+consensus 共识
+submerge 淹没
+emerge 出现
+immerge 浸入
+immerse 沉浸
+merge 合并
+------------------------------------------------
+wile 诡计，阴谋，欺骗
+wily 狡猾的
+crafty 狡猾的
+artful 狡猾的
+------------------------------------------------
+withdraw 收回，撤销
+withstand 禁得起
+withhold 隐瞒
+------------------------------------------------
+知识点70  X、Y、Z字母开头的单词   xenophobia-zenith
+
+xeno=>foreign
+xenophobia 仇外，惧外
+xenophile 崇洋的人
+------------------------------------------------
+yoke 束缚，支配
+yolk 蛋黄
+------------------------------------------------
+yeast 酵母，激动
+feast 盛宴
+ferment 发酵；骚乱
+foment 煽动
+------------------------------------------------
+zeal 热心，热情
+zealous 热情的
+zealot 狂热者
+jealous 嫉妒的
+zest 热情；风味
+------------------------------------------------
+zenith 顶点，顶峰，天顶 zeus
+acme  顶点
+crest 波峰
+apex 顶点
+culmination 顶点；高潮
+nadir 最低点
